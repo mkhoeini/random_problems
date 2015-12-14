@@ -15,3 +15,5 @@ files are named after the problem numbers.
 3. Do a bignum add and multiplication.
 
 4. Read a `MxN` matrix of 0 and 1s. Then find how many islands of 1 are present in the matrix. (two 1s are in the same island if they are horizontally or vertically neighbors)
+
+5. We have a fixed amount of money. There are `N` cities which we can visit. Entering each city has its own cost. Also each city has several cites to visit which each has its own cost of visit. Now find out maximum number of cites we can visit using our money.
