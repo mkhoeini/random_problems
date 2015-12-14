@@ -1,7 +1,7 @@
 
 
 nums = {}
-intex = 1
+index = 1
 
 for num in map(int, raw_input().split()):
     if num not in nums:
