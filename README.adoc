@@ -1,0 +1,17 @@
+= Random Problems
+
+Only some random algorithmic problems that I eventually decided to put my
+solutions to them here.
+
+Below I will list the problems and in each folder there will be solutions
+implemented in the programming language dedicated to that folder. And solution
+files are named after the problem numbers.
+
+
+1. There are `n` numbers between 1 and `n - 1` on the standard input. Read them and identify the duplicate.
+
+2. Read a string from standard input and find the longest palindrome substring in it.
+
+3. Do a bignum add and multiplication.
+
+4. Read a `MxN` matrix of 0 and 1s. Then find how many islands of 1 are present in the matrix. (two 1s are in the same island if they are horizontally or vertically neighbors)
